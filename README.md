@@ -1,4 +1,5 @@
 ### Hi there 👋
+This is gonna be the start of an amazing journey!!
 
 <!--
 **druhansingh/druhansingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,6 @@ Here are some ideas to get you started:
 -->
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/druhan-singh/"><img align="left" src="https://www.flaticon.com/free-icons/linkedin" title="linkedin" alt="Druhan | LinkedIn" width="21px"></img></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
