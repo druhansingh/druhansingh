@@ -1,4 +1,4 @@
-<h1 align="center">Hello ✋ <br>I am Druhan and this is my diary for everything coding</h1>
+<h1 align="center">Hello ✋ <br>I am Druhan and this is my space for everything coding</h1>
 <h3 align="center">Let's make this the start of an amazing journey together!.!</h3>
 
 - 🔭 I’m currently working on **my DSA skills and actively learning and finding new things in the world of full stack development**
