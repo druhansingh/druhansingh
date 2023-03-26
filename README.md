@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Druhan</h1>
-<h3 align="center">Let's make this the start of an amazing journey together</h3>
+<h1 align="center">I am Druhan and this is my page for everything coding</h1>
+<h3 align="center">Let's make this the start of an amazing journey together!.!</h3>
 
-- 🔭 I’m currently working on **my DSA skills and Full stack development**
+- 🔭 I’m currently working on **my DSA skills and actively learning and finding new things in thw world of full stack development**
 
 - 📫 How to reach me **druhan@duck.com**
 
