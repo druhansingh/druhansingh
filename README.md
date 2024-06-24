@@ -2,7 +2,7 @@
 <h3 align="center">Let's make this the start of an amazing journey together!</h3>
 
 - 🔭 I’m currently working on **my DSA skills and actively exploring the world of full stack development**
-- 📫 Reach me at **druhan@duck.com**
+- 📫 Reach me at **druhansingh@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -59,9 +59,19 @@
   <a href="https://isocpp.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
 </p>
+
+<h3 align="center">Projects and Contributions:</h3>
+<p align="center">I love working on exciting projects and contributing to open source. Here are some highlights:</p>
+<ul>
+  <li><b>Project Name:</b> Description of the project, technologies used, and the impact it had.</li>
+  <li><b>Open Source Contribution:</b> Description of the contribution and the project it was made to.</li>
+</ul>
 
 <h3 align="center">Let's Connect and Grow Together!</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=druhan&show_icons=true&theme=radical" alt="Druhan's GitHub stats" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding" width="200"/>
 </p>
