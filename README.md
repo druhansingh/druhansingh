@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -64,14 +64,7 @@
   </a>
 </p>
 
-<h3 align="center">Projects and Contributions:</h3>
-<p align="center">I love working on exciting projects and contributing to open source. Here are some highlights:</p>
-<ul>
-  <li><b>Project Name:</b> Description of the project, technologies used, and the impact it had.</li>
-  <li><b>Open Source Contribution:</b> Description of the contribution and the project it was made to.</li>
-</ul>
-
 <h3 align="center">Let's Connect and Grow Together!</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding" width="200"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Humor" width="200"/>
 </p>
