@@ -1,7 +1,7 @@
 <h1 align="center">Hello ✋ <br>I'm Druhan and this is my space for everything coding</h1>
 <h3 align="center">Let's make this the start of an amazing journey together!</h3>
 
-- 🔭 I’m currently working on **my DSA skills and actively exploring the world of full stack development**
+- 🔭 I’m currently working on **my DSA skills and actively exploring the world of softwares and development**
 - 📫 Reach me at **druhansingh@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
